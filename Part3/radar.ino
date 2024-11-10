@@ -1,5 +1,7 @@
 // To view the schematic and more information about this circuit go to the following article: https://projecthub.arduino.cc/nimishac/ultrasonic-radar-with-arduino-19baa3#section4
 
+// To view the circuit on tinkercad copy this link: https://www.tinkercad.com/things/3rR1Bc1BIpf-starbound-workshop-p3
+
 #include<Servo.h>           // Include the Servo library, which allows us to control servo motors
 
 #define trigPin 8           // Define the trigPin as digital pin 8, which will be used to trigger the ultrasonic sensor
