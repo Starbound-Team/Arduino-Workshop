@@ -1,4 +1,4 @@
-// To view the circuit on tinkercad copy this link: https://www.tinkercad.com/things/6B5OYwWkdWA-servo1?sharecode=jJ9frVl1y4sfpGZR4GIkRb08VyBUZZ1UJYHJ3lIfd5w
+// To view the circuit on tinkercad copy this link: https://www.tinkercad.com/things/i41obv4wVl7-starbound-workshop-p1
 
 
 #include <Servo.h>
