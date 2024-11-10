@@ -1,3 +1,6 @@
+// To view the circuit on tinkercad copy this link: https://www.tinkercad.com/things/6B5OYwWkdWA-servo1?sharecode=jJ9frVl1y4sfpGZR4GIkRb08VyBUZZ1UJYHJ3lIfd5w
+
+
 #include <Servo.h>
 
 Servo myservo;  // create servo object to control a servo
