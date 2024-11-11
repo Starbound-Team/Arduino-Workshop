@@ -1,4 +1,4 @@
-// To view the schematic and more information about this circuit go to the following article: https://projecthub.arduino.cc/nimishac/ultrasonic-radar-with-arduino-19baa3#section4
+// To view more information about this circuit go to the following article: https://projecthub.arduino.cc/nimishac/ultrasonic-radar-with-arduino-19baa3#section4
 
 // To view the circuit on tinkercad copy this link: https://www.tinkercad.com/things/3rR1Bc1BIpf-starbound-workshop-p3?sharecode=pSAk-YyKQ2BFswExL0f8UD_c0g538VUTlVTg
 
